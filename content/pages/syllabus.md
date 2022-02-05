@@ -65,10 +65,110 @@ Emphasis on testing (in field and in lab) plus field monitoring
 Outline
 -------
 
-| PART # | TOPICS |
-| --- | --- |
-| I | _Introduction  {{< br >}}_  {{< br >}}Geotechnical / Geoenvironmental Engineering  {{< br >}}  {{< br >}}Conduct of Subject |
-| II | _Nature of Soil  {{< br >}}_  {{< br >}}Soil Composition, Index Properties, Soil Classification  {{< br >}}  {{< br >}}Soil Structure: Clay-Water Forces, Interparticle Forces, Fabric  {{< br >}}  {{< br >}}Environmental Factors |
-| III | _Dry Soil (Cohesionless)  {{< br >}}  {{< br >}}_Mohr Circle, Stress Paths, Elastic Stress Distribution  {{< br >}}  {{< br >}}Stress-Strain and Strength Behavior of Sand  {{< br >}}  {{< br >}}Rankine Earth Pressures, Infinite Slopes, Retaining Walls  {{< br >}}  {{< br >}}Bearing Capacity of Sands (Theory and Practice)  {{< br >}}  {{< br >}}Settlement of Sands |
-| IV | _Saturated Soil (No or Steady State Flow)  {{< br >}}  {{< br >}}_Effective Stress Principle, Capillarity, Soil Suction  {{< br >}}  {{< br >}}One- and Two-Dimensional Flow  {{< br >}}  {{< br >}}Coefficient of Permeability (Theory and Practice)  {{< br >}}  {{< br >}}Stress-Strain and Strength Behavior of Clays  {{< br >}}1-D Behavior (Theory and Practice)  {{< br >}}Drained Shear Behavior, Strength Principles  {{< br >}}  {{< br >}}Lateral Earth Pressures  {{< br >}}  {{< br >}}Slope Stability and Bearing Capacity |
-| V | _Saturated Soil (Transient Flow)  {{< br >}}  {{< br >}}_Pore Pressure Parameters, Undrained Shear Behavior of Clays, and Strength Principles  {{< br >}}  {{< br >}}Consolidation of Cohesive Soils  {{< br >}}Terzaghi Theory  {{< br >}}LC Compression  {{< br >}}Special Topics  {{< br >}}  {{< br >}}Evaluation of Stability (Loading vs. Unloading and Undrained vs. Drained Conditions)  {{< br >}}  {{< br >}}Estimation of Undrained Strength for Design  {{< br >}}  {{< br >}}Settlement Analyses for 2, 3-D Loadings
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PART #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+I
+{{< tdclose >}}
+{{< tdopen >}}
+_Introduction  
+_  
+Geotechnical / Geoenvironmental Engineering  
+  
+Conduct of Subject
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+II
+{{< tdclose >}}
+{{< tdopen >}}
+_Nature of Soil  
+_  
+Soil Composition, Index Properties, Soil Classification  
+  
+Soil Structure: Clay-Water Forces, Interparticle Forces, Fabric  
+  
+Environmental Factors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+III
+{{< tdclose >}}
+{{< tdopen >}}
+_Dry Soil (Cohesionless)  
+  
+_Mohr Circle, Stress Paths, Elastic Stress Distribution  
+  
+Stress-Strain and Strength Behavior of Sand  
+  
+Rankine Earth Pressures, Infinite Slopes, Retaining Walls  
+  
+Bearing Capacity of Sands (Theory and Practice)  
+  
+Settlement of Sands
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+IV
+{{< tdclose >}}
+{{< tdopen >}}
+_Saturated Soil (No or Steady State Flow)  
+  
+_Effective Stress Principle, Capillarity, Soil Suction  
+  
+One- and Two-Dimensional Flow  
+  
+Coefficient of Permeability (Theory and Practice)  
+  
+Stress-Strain and Strength Behavior of Clays  
+1-D Behavior (Theory and Practice)  
+Drained Shear Behavior, Strength Principles  
+  
+Lateral Earth Pressures  
+  
+Slope Stability and Bearing Capacity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+V
+{{< tdclose >}}
+{{< tdopen >}}
+_Saturated Soil (Transient Flow)  
+  
+_Pore Pressure Parameters, Undrained Shear Behavior of Clays, and Strength Principles  
+  
+Consolidation of Cohesive Soils  
+Terzaghi Theory  
+LC Compression  
+Special Topics  
+  
+Evaluation of Stability (Loading vs. Unloading and Undrained vs. Drained Conditions)  
+  
+Estimation of Undrained Strength for Design  
+  
+Settlement Analyses for 2, 3-D Loadings
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

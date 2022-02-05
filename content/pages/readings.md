@@ -15,12 +15,105 @@ Lambe, T. William, and Robert V. Whitman. _Soil Mechanics._ New York: Wiley, 196
 
 **Study: Know all definitions, concepts, derivations of formulas, etc. This information will be covered in class and in Homework Problems and will form the main basis for materials on the exams.**
 
-| CHAPTER #     | READ OR STUDY | COMPLETED BY LEC #   |
-| --- | --- | --- |
-| 1, 2 | Read | 2 |
-| 3 | Study | 2 |
-| 4, 5, 6, 7 | Read | 3 |
-| 8 | Study | 4 |
-| 9, 10, 11, 12 | Study | 5 |
-| 13 | Study | 6 |
-| 14 | Study | 8
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CHAPTER #    
+{{< thclose >}}
+{{< thopen >}}
+READ OR STUDY
+{{< thclose >}}
+{{< thopen >}}
+COMPLETED BY LEC #  
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1, 2
+{{< tdclose >}}
+{{< tdopen >}}
+Read
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Study
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4, 5, 6, 7
+{{< tdclose >}}
+{{< tdopen >}}
+Read
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Study
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9, 10, 11, 12
+{{< tdclose >}}
+{{< tdopen >}}
+Study
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Study
+{{< tdclose >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Study
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
