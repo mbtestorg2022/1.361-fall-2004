@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 99deab7c-2eb5-f5cb-094c-48494c747796
 ---
@@ -40,6 +43,6 @@ Part V-2 Consolidation and Secondary Compression ([PDF]({{< baseurl >}}/resource
 
 Part V-3 Stability Evaluation: Cohesive Soils ([PDF]({{< baseurl >}}/resources/part_v_3-1))
 
-Part V-4 Estimation of Design _su_ in Practice ([PDF - 2.0 MB]({{< baseurl >}}/resources/part_v_4))
+Part V-4 Estimation of Design _s{{< sub "u" >}}_ in Practice ([PDF - 2.0 MB]({{< baseurl >}}/resources/part_v_4))
 
 Part V-5 Settlement Analyses ([PDF - 3.0 MB]({{< baseurl >}}/resources/part_v_5))
