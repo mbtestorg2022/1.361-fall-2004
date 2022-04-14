@@ -25,10 +25,10 @@ Length
 {{< tdclose >}}
 {{< tdopen >}}
 in x 25.40 = mm  
-mil x 10{{< sup "\\-3" >}} = in  
+mil x 10{{< sup "\-3" >}} = in  
 ft x 0.3048 = m  
 yd x 3 = ft  
-Angstrom x 10{{< sup "\\-4" >}} = µm  
+Angstrom x 10{{< sup "\-4" >}} = µm  
 Angstrom x 0.1 = nm
 {{< tdclose >}}
 
@@ -50,7 +50,7 @@ Volume
 ft{{< sup "3" >}}  x 1728 = in.{{< sup "3" >}}  
 ft{{< sup "3" >}}  x  0.02832 = m{{< sup "3" >}}  
 yd{{< sup "3" >}} x 0.7646 = m{{< sup "3" >}}  
-gal x 3.785 = liter = 10{{< sup "\\-3" >}}m{{< sup "3" >}}  
+gal x 3.785 = liter = 10{{< sup "\-3" >}}m{{< sup "3" >}}  
 ounce (U.S. fluid) x 29.57 = cm{{< sup "3" >}}
 {{< tdclose >}}
 
@@ -75,7 +75,7 @@ bf  x 4.448 = N
 U.S. ton x 2000 = lbf  
 kgf x 9.81 = N  
 metric ton x 9.81 = kN  
-dyne x 10{{< sup "\\-5" >}} = N
+dyne x 10{{< sup "\-5" >}} = N
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +100,7 @@ joule (J) = N **.** m
 ft **.** lbf x 1.356 = J  
 cal x 4.187 = J  
 erg = dyne **.** cm  
-erg x 10{{< sup "\\-7" >}} = J
+erg x 10{{< sup "\-7" >}} = J
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +117,7 @@ TSF x 2000 = psf
 kgf/cm{{< sup "2" >}} x 2048 = psf  
 kgf/cm{{< sup "2" >}} x 10 = TSM  
 TSM x 204.8 = psf  
-dyne/cm{{< sup "2" >}} x 10{{< sup "\\-6" >}} = bar
+dyne/cm{{< sup "2" >}} x 10{{< sup "\-6" >}} = bar
 {{< tdclose >}}
 
 {{< trclose >}}
